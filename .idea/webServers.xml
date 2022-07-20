@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cd39d1d7-c093-406e-ac39-eacb573788bc" name="alexmonroy.com" url="http://216.185.212.17">
+        <fileTransfer rootFolder="/public/wp-content/plugins" host="216.185.212.17" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
